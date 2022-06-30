@@ -65,3 +65,44 @@ header .menu {
   background-position: top right;
   border-bottom-left-radius: 90px;
 }
+
+/* h1 text */
+.header-h1-text {
+  align-items: center;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 3.25rem;
+  color: #172b4d;
+  margin: 0.5rem 0;
+}
+
+/* paragraph text */
+.intro {
+  color: #344563;
+  margin: 0.5rem 0;
+}
+
+/* let's connect */
+.hitmeup {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 0.75rem 0;
+  color: #4b5399;
+}
+
+/* social media icons */
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 10.636rem;
+}
+
+.sm-icon {
+  display: block;
+  width: 100%;
+}
+
+ul, li {
+  list-style-type: none;
+}
