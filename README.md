@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Portfolio
 
-> First project at Microverse.
+> This is my personal portfolio to showcase my projects and achievements.
 
-![screenshot](./screenshot1.png)
+![Screenshot](./Screenshot-1.png)
 
 
 ## Built With
@@ -12,11 +12,6 @@
 - HTML
 - CSS
 - JavaScript
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 ## Authors
