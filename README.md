@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Portfolio
 
-> First project at Microverse.
+> This is my personal portfolio to showcase my projects and achievements.
 
-![screenshot](./screenshot1.png)
+![Screenshot](./Screenshot-1.png)
 
 
 ## Built With
