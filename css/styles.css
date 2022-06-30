@@ -1,19 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
 
 body {
-    position: relative;
-    font-family: "Poppins", sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1.5rem;
-    font-family: "Poppins", sans-serif;
-    margin: 0;
-
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.5rem;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 
 header {
@@ -38,57 +37,54 @@ body {
   background: #f7f7f9;
 }
   
-
-  a {
-    text-decoration: none;
-  }
+a {
+  text-decoration: none;
+}
   
   /* header section */
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 3rem;
-    background: #fff;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+  background: #fff;
   }
-  
-
 
 main {
-    margin-top: 3rem;
+  margin-top: 3rem;
   }
   
   /* headline section */
-  .headline {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 7.125rem 1.5rem;
-    background-image: url(../images/header-shapes-mobile.svg), url(../images/header-background-mobile.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top right;
-    border-bottom-left-radius: 90px;
-  }
+.headline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 7.125rem 1.5rem;
+  background-image: url(../images/header-shapes-mobile.svg), url(../images/header-background-mobile.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top right;
+  border-bottom-left-radius: 90px;
+}
 
-  header .my-logo-container {
-    margin-left: 1.5rem;
-  }
+header .my-logo-container {
+  margin-left: 1.5rem;
+}
   
-  header nav {
-    cursor: pointer;
-    margin-right: 2.25rem;
-  }
+header nav {
+  cursor: pointer;
+  margin-right: 2.25rem;
+}
   
-  header #logo,
-  header .menu {
-    display: block;
-    width: 100%;
-  }
+header #logo,
+header .menu {
+  display: block;
+  width: 100%;
+}
   
