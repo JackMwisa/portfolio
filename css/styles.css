@@ -53,8 +53,8 @@ header .menu {
   display: block;
   width: 100%;
 }
-
 /* headline section */
+
 .headline {
   display: flex;
   flex-direction: column;
