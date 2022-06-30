@@ -23,7 +23,6 @@ header {
   position: fixed;
   justify-content: space-between;
   align-items: center;
-  position: fixed;
   top: 0;
   right: 0;
   left: 0;
@@ -31,10 +30,10 @@ header {
   height: 3rem;
   background: #fff;
 }
-  
-  a {
-    text-decoration: none;
-  }
+ 
+a {
+  text-decoration: none;
+}
 
 main {
   margin-top: 3rem;
@@ -43,19 +42,19 @@ main {
 header .my-logo-container {
   margin-left: 1.5rem;
 }
-    
+
 header nav {
   cursor: pointer;
   margin-right: 2.25rem;
 }
-    
+
 header #logo,
 header .menu {
   display: block;
   width: 100%;
 }
-  
-  /* headline section */
+
+/* headline section */
 .headline {
   display: flex;
   flex-direction: column;
