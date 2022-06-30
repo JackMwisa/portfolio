@@ -12,29 +12,15 @@ body {
   font-weight: normal;
   line-height: 1.5rem;
   margin: 0;
-  line-height: 1.5rem;
   background: #f7f7f9;
 }
 
+/* header section */
 header {
   display: flex;
   width: 100%;
   background-color: white;
   position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  height: 3rem;
-}
-
-a {
-  text-decoration: none;
-}
-  
-  /* header section */
-header {
-  display: flex;
   justify-content: space-between;
   align-items: center;
   position: fixed;
@@ -42,14 +28,32 @@ header {
   right: 0;
   left: 0;
   bottom: 0;
-  width: 100%;
   height: 3rem;
   background: #fff;
+}
+  
+  a {
+    text-decoration: none;
   }
 
 main {
   margin-top: 3rem;
-  }
+}
+
+header .my-logo-container {
+  margin-left: 1.5rem;
+}
+    
+header nav {
+  cursor: pointer;
+  margin-right: 2.25rem;
+}
+    
+header #logo,
+header .menu {
+  display: block;
+  width: 100%;
+}
   
   /* headline section */
 .headline {
@@ -62,19 +66,4 @@ main {
   background-repeat: no-repeat;
   background-position: top right;
   border-bottom-left-radius: 90px;
-}
-
-header .my-logo-container {
-  margin-left: 1.5rem;
-}
-  
-header nav {
-  cursor: pointer;
-  margin-right: 2.25rem;
-}
-  
-header #logo,
-header .menu {
-  display: block;
-  width: 100%;
 }
